@@ -1,0 +1,2 @@
+letter = "Dear Harry,\n\tI hope this letter finds you well. I wanted to let you know how much I appreciate your dedication to learning Python.\n\tYour progress has been impressive, and your enthusiasm is inspiring.\n\tKeep up the great work and continue exploring new concepts.\nThanks!\nBest regards,\n\tYour Instructor"
+print(letter)
