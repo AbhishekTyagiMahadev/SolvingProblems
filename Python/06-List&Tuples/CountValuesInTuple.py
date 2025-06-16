@@ -1,0 +1,5 @@
+a = (7, 0, 10, 25, 8, 0, 0, 9, 9)
+count = a.count(0)
+print(f"Number of zeros in the tuple:{count}")
+count = a.count(9)
+print(f"Number of nine in the tuple:{count}")
